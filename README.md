@@ -2,7 +2,7 @@
 
 In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.
 
-### [View the demo](https://taniarascia.github.io/react-hooks/) | [Read the tutorial](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+### [View the demo](https://github.com/singhbhavna/react.git) | [Read the tutorial](https://github.com/singhbhavna/react.git)
 
 ## Author
 
